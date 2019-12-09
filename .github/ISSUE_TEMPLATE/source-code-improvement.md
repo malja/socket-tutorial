@@ -1,7 +1,7 @@
 ---
 name: Source code improvement
 about: Suggest an improvement for souce code
-title: "[Improvement]"
+title: "[Improvement] <Short description>"
 labels: enhancement
 assignees: ''
 
