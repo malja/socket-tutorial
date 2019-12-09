@@ -1,4 +1,7 @@
 # socket
+
+[![Join the chat at https://gitter.im/socket-tutorial/community](https://badges.gitter.im/socket-tutorial/community.svg)](https://gitter.im/socket-tutorial/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Few implementations of socket server-client communication
 
 ## Documentation
